@@ -1,4 +1,4 @@
 Welcome to MyProject!
  
-Author: John Doe
+Author: John Williams Doe
 Twitter: @johndoe
