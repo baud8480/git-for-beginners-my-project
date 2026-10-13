@@ -1,4 +1,4 @@
-Welcome to MyProject!
+Welcome to the "Git for Beginners" MyProject!
  
 Author: John Williams Doe
 Twitter: @johndoe
